@@ -12,7 +12,7 @@ body a {
     text-decoration: none;
 }
 
-header{
+.logo{
     font-family: 'Raleway';
     font-weight: 700;
     font-size: 18px;
@@ -22,21 +22,10 @@ header{
     color:  #4d5ae5 ;
 }
 
-.logo {
-    font-family: 'Raleway';
+.first-word-logo{
+    color: #2e2f42;
 }
 
-.first-word-logo {
-    color: #4D5AE5;
-    font-size: 18px;
-    line-height: 21px;
-}
-
-.second-word-of-the-logo{
-    color: #2E2F42;
-    font-size: 18px;
-    line-height: 21px;
-}
 
 .menu-header-menu-container a{
     color: #2E2F42;
