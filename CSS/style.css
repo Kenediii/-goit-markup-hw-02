@@ -25,3 +25,53 @@ body a {
     font-size: 18px;
     line-height: 21px;
 }
+
+.menu-header-menu-container a{
+    color: #2E2F42;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.contact-information_header a{
+    color: #434455;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.section-effective-solutions{
+    background-color: #2E2F42;
+}
+
+.section-effective-solutions h1{
+    color: #FFFFFF;
+    font-weight: 700;
+    font-size: 56px;
+    line-height: 60px;
+}
+
+.section-effective-solutions button{
+    color: #FFFFFF;
+    background-color: #4D5AE5;
+    width: 169px;
+    height: 56px;
+    font-weight: 500px;
+    font-size: 16px;
+    line-height: 24px;
+}
+
+.section-our-team{
+    background-color: #F4F4FD;
+}
+
+footer{
+    background-color: #2E2F42;    
+}
+
+footer p{
+    color: #F4F4FD;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
