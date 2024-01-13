@@ -16,7 +16,7 @@ body {
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
-    letter-spacing: 0.03rem;
+    letter-spacing: 0.03em;
     text-transform: uppercase;
     color: var(--iris);
 }
@@ -27,10 +27,10 @@ span{
 }
 
 
-.color-change a:hover{
+.color-change:hover{
     color: #404bbf;
 }
 
-.color-change a:active{
+.color-changes:active{
     color: #404bbf;
 }
