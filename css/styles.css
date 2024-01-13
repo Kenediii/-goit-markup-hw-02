@@ -144,3 +144,8 @@ span{
     font-weight: 400;
     letter-spacing: 0.02em;
 }
+
+span{
+    color: var(--navy-blue);
+
+}
