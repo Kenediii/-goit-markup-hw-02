@@ -70,13 +70,16 @@ span{
     font-size: 56px;
     font-style: normal;
     font-weight: 700;
-    line-height: 60px;
+    line-height: 1.07;
     letter-spacing: 1.12px;
+    text-align: center;
 }
 
 .section-effective-solutions_button{
+    font-family: 'Roboto', sans-serif;
     background-color: var(--iris);
     color: var(--white);
+    font-weight: 500;
     font-size: 16px;
     font-style: 500;
     line-height: 24px;
@@ -85,10 +88,10 @@ span{
 }
 
 .section-effective-solutions_button:hover{
-    color: var(--blue);
+    background-color: var(--blue);
 }
 
 .section-effective-solutions_button:focus{
-    color: var(--blue);
+    background-color: var(--blue);
 }
 
