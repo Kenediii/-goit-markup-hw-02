@@ -132,3 +132,7 @@ span{
     text-transform: capitalize;
     text-align: center;
 }
+
+footer{
+    background-color: var(--navy-blue);
+}
