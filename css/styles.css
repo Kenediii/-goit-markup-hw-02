@@ -39,8 +39,8 @@ span{
     color: var(--blue);
 }
 
-.color-change:active {
-    color: #404bbf;
+.color-change:focus {
+    color:var(--blue)
 }
 
 .contact-information_header {
@@ -53,7 +53,7 @@ span{
     color: var(--slate);
 }
 
-.social-link:active {
+.social-link:focus {
     color: var(--blue);
 }
 
