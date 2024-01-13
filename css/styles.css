@@ -18,15 +18,15 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03rem;
     text-transform: uppercase;
-    color: var(--iris)
+    color: var(--iris);
 }
 
 span{
-    color: var(--navy-blue)
+    color: var(--navy-blue);
 
 }
 
-.menu-header-menu-container a{
+.navigation-bar a{
     color: var(--navy-blue);
     font-size: 16px;
     font-style: normal;
@@ -36,9 +36,9 @@ span{
 }
 
 .color-change a:hover{
-    color: #404bbf
+    color: #404bbf;
 }
 
 .color-change a:active{
-    color: #404bbf
+    color: #404bbf;
 }
