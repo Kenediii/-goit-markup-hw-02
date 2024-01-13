@@ -40,7 +40,7 @@ span{
 }
 
 .color-change:active {
-    color: var(--blue);
+    color: #404bbf;
 }
 
 .contact-information_header {
