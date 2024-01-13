@@ -38,6 +38,10 @@ span{
     color: #404bbf;
 }
 
-.color-changes:active{
+.color-change:active{
     color: #404bbf;
+}
+
+.contact-information_header{
+    font-style: normal;
 }
