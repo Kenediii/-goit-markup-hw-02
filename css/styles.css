@@ -1,7 +1,5 @@
-body{
-    font-family: Roboto, sans-serif;
-    color: var(--#434455);
-    background-color: var(--#FFFFFF);
+body {
+    font-family: "Roboto", sans-serif;
 }
 
 .logo{
