@@ -56,3 +56,7 @@ span{
 .social-link:active {
     color: var(--blue);
 }
+
+.social-link:hover {
+    color: var(--blue);
+}
