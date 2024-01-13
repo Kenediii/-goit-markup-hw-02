@@ -3,7 +3,7 @@
     --white: #ffffff;
 }
 
-.body {
+body {
     font-family: 'Roboto', sans-serif;
     color: var(--slate);
     background-color: var(--white);
