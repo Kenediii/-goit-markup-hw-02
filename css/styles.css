@@ -145,7 +145,16 @@ span{
     letter-spacing: 0.02em;
 }
 
-span{
+.logo-footer {
+    font-family: 'Raleway', sans-serif;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 1.17;
+    letter-spacing: 0.03em;
+    text-transform: uppercase;
+    color: var(--iris);
+}
+.logo-footer .span-footer {
     color: var(--navy-blue);
 
 }
