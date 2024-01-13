@@ -132,20 +132,3 @@ span{
     text-transform: capitalize;
     text-align: center;
 }
-
-.tittle-our-team{
-    color: var(--navy-blue);
-    font-size: 20px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 1.2;
-    letter-spacing: 0.02em;
-}
-
-.text-our-team{
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 1.5;
-    letter-spacing: 0.02em;
-}
