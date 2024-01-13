@@ -26,14 +26,6 @@ span{
 
 }
 
-.navigation-bar a{
-    color: var(--navy-blue);
-    font-size: 16px;
-    font-style: normal;
-    font-weight: 500;
-    line-height: 24px;
-    letter-spacing: 0.32px;
-}
 
 .color-change a:hover{
     color: #404bbf;
