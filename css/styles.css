@@ -118,6 +118,10 @@ span{
     background-color: var(--cloud);
 }
 
+.section-description_first-point{
+    background-color: var(--white);
+}
+
 .two-tittle{
     color: var(--navy-blue);
     font-size: 36px;
