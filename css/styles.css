@@ -1,6 +1,8 @@
 :root {
-    --slate: #434455;
-    --white: #ffffff;
+    --slate:         #434455;
+    --white:         #ffffff;
+    --iris:          #4d5ae5;
+    --navy-blue:     #2E2F42;
 }
 
 body {
@@ -16,10 +18,27 @@ body {
     line-height: 1.17;
     letter-spacing: 0.03rem;
     text-transform: uppercase;
-    color: #4d5ae5;
+    color: var(--blue)
 }
 
 span{
-    color: #2e2f42;
+    color: var(--navy-blue)
 
+}
+
+.menu-header-menu-container a{
+    color: var(--navy-blue);
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 24px;
+    letter-spacing: 0.32px;
+}
+
+.color-change a:hover{
+    color: #404bbf
+}
+
+.color-change a:active{
+    color: #404bbf
 }
