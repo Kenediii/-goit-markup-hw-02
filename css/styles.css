@@ -1,11 +1,12 @@
 :root{
     --slate: #434455;
+    --white: #FFF;
 }
 
 body {
     font-family: 'Roboto', sans-serif;
     color: var(--slate);
-    background-color: #FFFFFF;
+    background-color: var(--white)
 }
 
 .logo{
