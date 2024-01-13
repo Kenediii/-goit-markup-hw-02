@@ -60,3 +60,37 @@ span{
 .social-link:hover {
     color: var(--blue);
 }
+
+.section-description {
+    background-color: var(--navy-blue);
+}
+
+.h1-tittle{
+    color: var(--white);
+    font-size: 56px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 60px;
+    letter-spacing: 1.12px;
+}
+
+.section-effective-solutions_button{
+    background-color: var(--iris);
+    border-radius: 4px;
+    box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.15); 
+    color: var(--white);
+    font-size: 16px;
+    font-style: 500;
+    line-height: 24px;
+    letter-spacing: 0.64px;
+    cursor: pointer;
+}
+
+.section-effective-solutions_button:hover{
+    color: var(--blue);
+}
+
+.section-effective-solutions_button:focus{
+    color: var(--blue);
+}
+
