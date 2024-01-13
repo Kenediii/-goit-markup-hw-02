@@ -4,6 +4,7 @@
     --iris:          #4d5ae5;
     --navy-blue:     #2E2F42;
     --blue:          #404bbf;
+    --cloud:         #F4F4FD;
 }
 
 body {
@@ -95,7 +96,7 @@ span{
     background-color: var(--blue);
 }
 
-.two-tittle{
+.three-tittle{
     color: var(--navy-blue);
     font-size: 20px;
     font-style: normal;
@@ -111,4 +112,18 @@ span{
     font-weight: 400;
     line-height: 24px;
     letter-spacing: 0.32px;
+}
+
+.section-our-team{
+    background-color: var(--cloud);
+}
+
+.two-tittle{
+    color: var(--navy-blue);
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 40px;
+    letter-spacing: 0.72px;
+    text-transform: capitalize;
 }
