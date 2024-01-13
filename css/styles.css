@@ -1,5 +1,10 @@
+:root{
+    --slate: #434455;
+}
+
 body {
     font-family: 'Roboto', sans-serif;
+    color: var(--slate);
 }
 
 .logo{
@@ -14,4 +19,5 @@ body {
 
 span{
     color: #2e2f42;
+
 }
