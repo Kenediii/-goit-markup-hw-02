@@ -35,14 +35,24 @@ span{
     letter-spacing: 0.02em;
 }
 
-.color-change:hover{
+.color-change:hover {
     color: var(--blue);
 }
 
-.color-change:active{
+.color-change:active {
     color: var(--blue);
 }
 
-.contact-information_header{
+.contact-information_header {
     font-style: normal;
+}
+
+.social-link{
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: var(--slate);
+}
+
+.social-link:active {
+    color: var(--blue);
 }
