@@ -3,6 +3,7 @@
     --white:         #ffffff;
     --iris:          #4d5ae5;
     --navy-blue:     #2E2F42;
+    --blue:          #404bbf;
 }
 
 body {
@@ -35,11 +36,11 @@ span{
 }
 
 .color-change:hover{
-    color: #404bbf;
+    color: var(--blue);
 }
 
 .color-change:active{
-    color: #404bbf;
+    color: var(--blue);
 }
 
 .contact-information_header{
